@@ -1,4 +1,4 @@
-## Cloned repo from codeberg - https://codeberg.org/oppoW51/Startup_files
+## Cloned repo from codeberg - https://codeberg.org/oppoW51/Exercism_C_track
 
 # C Programming Exercises
 
