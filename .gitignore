@@ -1,0 +1,14 @@
+*.out
+*.exe
+*.app
+tests.out
+*.o
+*.obj
+build/
+bin/
+*.log
+*.tmp
+.DS_Store
+.vscode/
+.idea/
+*.swp
